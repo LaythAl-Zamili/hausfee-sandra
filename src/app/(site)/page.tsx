@@ -9,7 +9,7 @@ import {
   ShoppingBasket,
   Stethoscope,
   MessageCircleHeart,
-  Walking,
+  // Walking,
 } from "lucide-react";
 
 export default function HomePage() {
