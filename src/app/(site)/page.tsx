@@ -68,12 +68,12 @@ export default function HomePage() {
                   Einkaufslisten, Apothekenfahrten, Abholungen – zuverlässig
                   erledigt.
                 </ServiceCard>
-                <ServiceCard
+                {/* <ServiceCard
                   title="Spaziergänge & Gesellschaft"
                   icon={<Walking className="h-5 w-5 text-brand" />}
                 >
                   Frische Luft und Bewegung – gemeinsam unterwegs.
-                </ServiceCard>
+                </ServiceCard> */}
               </div>
             </div>
           </div>
