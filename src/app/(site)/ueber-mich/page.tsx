@@ -71,7 +71,7 @@ export default function UeberMichPage() {
         <aside className="card max-w-sm md:ml-auto p-5">
           <div className="relative mx-auto h-40 w-40 overflow-hidden rounded-full border-2 border-[var(--brand)]/40 shadow-soft">
             <Image
-              src="/sandra.jpg"
+              src="/sandra.jpeg"
               alt="Sandra – Hausfee Sandra"
               fill
               className="object-cover"

@@ -64,7 +64,7 @@ export default function Home() {
               <div className="card flex flex-col items-center gap-4 bg-gradient-to-r from-white to-[var(--brand)]/5 p-5 sm:flex-row">
                 <div className="flex h-20 w-20 flex-shrink-0 items-center justify-center overflow-hidden rounded-full border-2 border-[var(--brand)]/50 bg-white shadow-soft">
                   <Image
-                    src="/sandra.jpg" // Datei in /public/sandra.jpg
+                    src="/sandra.jpeg" // Datei in /public/sandra.jpeg
                     alt="Sandra"
                     width={80}
                     height={80}
